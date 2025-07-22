@@ -1,4 +1,4 @@
-module github.com/your-username/stealthysraper
+module github.com/Djmon007/stealthysraper
 
 go 1.18
 
